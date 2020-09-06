@@ -1,4 +1,7 @@
 # Early Diabetes Detection Web Application - Project Overview
+
+#### **GOAL:** Build an web application to interact with a predictive model to provide live predictions based on input
+
   * Built a random forest model to help detect diabetes early based on 16 unique features (R^2 = 96%)
   * Created a web application to interact with model and provide live predictions using StreamLit
   * Pushed the web application to the cloud (hosted by Salesforce's Heroku)
