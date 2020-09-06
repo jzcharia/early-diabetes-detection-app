@@ -12,7 +12,7 @@
 
 **Source of Data:** Islam, MM Faniqul, et al. 'Likelihood prediction of diabetes at early stage using data mining techniques.' Computer Vision and Machine Intelligence in Medical Image Analysis. Springer, Singapore, 2020. 113-125. (https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.)
 
-**StreamLit Production:** https://github.com/dataprofessor/penguins-heroku/blob/master/penguins-app.py
+**StreamLit Production and Heroku Configuration:** https://github.com/dataprofessor/penguins-heroku/blob/master/penguins-app.py
 
 **Tools:** Jupyter Notebook, Anaconda Prompt, Heroku
 
