@@ -5,6 +5,7 @@
   * Built a random forest model to help detect diabetes early based on 16 unique features
   * Created a web application to interact with model and provide live predictions using StreamLit
   * Pushed the web application to the cloud (hosted by Salesforce's Heroku)
+  * Click [here](https://jzcharia-diabetesdetection.herokuapp.com/) to go to the web application
 
 ## Resources
 
