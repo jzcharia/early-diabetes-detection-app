@@ -131,9 +131,6 @@ st.subheader('Based on your answers, the prediction is...')
 diabetes_classification = np.array(['No','Yes'])
 st.write(diabetes_classification[prediction])
 
-st.subheader('Prediction Probability')
-st.write(prediction_proba)
-
 
 # In[ ]:
 
